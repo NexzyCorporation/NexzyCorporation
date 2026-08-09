@@ -21,7 +21,7 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
-## 🎯 Objetivo Profissional
+##  Objetivo Profissional
 
 🛡️ Aprofundar meus conhecimentos em **Pentest**
 
@@ -31,7 +31,7 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
-## 🛡️ Conhecimentos
+##  Conhecimentos
 
 ### 🌐 Redes
 `TCP/IP` `TCP/UDP` `DNS` `HTTP/HTTPS` `Portas` `NAT`
@@ -61,7 +61,7 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 <div align="center">
 
