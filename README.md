@@ -1,4 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Seja bem-vindo ao meu perfil">
+</p>
+
+<h1 align="center">Gabriel Henrique</h1>
+
+<p align="center">
+  🎓 Engenharia de Software • 🔐 Cibersegurança • 🛡️ Pentest • 🐍 Python
+</p>
 
 #  Seja bem-vindo ao meu perfil
 
