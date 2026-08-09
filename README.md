@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software**, com foco no desenvolvimento da minha carreira e interesse especial em **Pentest**.
+Sou estudante de **Engenharia de Software**, com foco no desenvolvimento da minha primeira carreira na **Programação** e interesse especial em **Pentest**.
 
 Atualmente, estou desenvolvendo meus conhecimentos em **Python, Redes, Linux e Segurança Web**, buscando aplicar o aprendizado em projetos, estudos e laboratórios autorizados.
 
