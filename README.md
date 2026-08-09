@@ -33,31 +33,31 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ##  Conhecimentos
 
-### 🌐 Redes
+### • Redes
 `TCP/IP` `TCP/UDP` `DNS` `HTTP/HTTPS` `Portas` `NAT`
 
-### 🐧 Linux
+### • Linux
 `Terminal` `Permissões` `Processos` `Arquivos e Diretórios`
 
-### 🪟 Windows
+### • Windows
 `CMD` `PowerShell` `Usuários` `Permissões` `Serviços` `Processos`
 
-### 🐍 Programação
+### • Programação
 `Python` `Lógica de Programação`
 
-### 🌍 Web
+### • Web
 `HTTP` `Cookies` `Sessões` `Headers` `APIs`
 
-### 🔐 Cibersegurança
+### • Cibersegurança
 `Vulnerabilidades` `Autenticação` `Autorização` `Hash` `Criptografia`
 
-### 🔎 Reconhecimento
+### • Reconhecimento
 `Hosts` `Serviços` `Portas` `Tecnologias`
 
-### 🕸️ Segurança Web
+### • Segurança Web
 `SQL Injection` `XSS` `CSRF` `Controle de Acesso`
 
-> 🔒 Estudos e práticas de segurança realizados exclusivamente em ambientes próprios, laboratórios ou sistemas devidamente autorizados.
+> → Estudos e práticas de segurança realizados exclusivamente em ambientes próprios, laboratórios ou sistemas devidamente autorizados.
 
 ---
 
@@ -81,11 +81,11 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 | Área | Estudos |
 |---|---|
-| 🐍 **Programação** | Python • Lógica de Programação |
-| 🔐 **Cibersegurança** | Pentest • Segurança Web |
-| 🌐 **Redes** | TCP/IP • DNS • HTTP/HTTPS |
-| 🐧 **Sistemas** | Linux • Windows |
-| 🎓 **Graduação** | Engenharia de Software |
+|  **Programação** | Python • Lógica de Programação |
+|  **Cibersegurança** | Pentest • Segurança Web |
+|  **Redes** | TCP/IP • DNS • HTTP/HTTPS |
+|  **Sistemas** | Linux • Windows |
+|  **Graduação** | Engenharia de Software |
 
 </div>
 
@@ -137,7 +137,7 @@ Este GitHub será utilizado para documentar minha evolução e publicar projetos
 
 <div align="center">
 
-### ⚔️ Aprender • Praticar • Construir • Evoluir
+###  Aprender • Praticar • Construir • Evoluir
 
 **Obrigado por visitar meu perfil!**
 
