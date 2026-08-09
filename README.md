@@ -23,38 +23,38 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ##  Objetivo Profissional
 
-🛡️ Aprofundar meus conhecimentos em **Pentest**
+• Aprofundar meus conhecimentos em **Pentest**
 
-🐍 Evoluir no desenvolvimento com **Python**
+• Evoluir no desenvolvimento com **Python**
 
-🌐 Aprimorar conhecimentos em **Redes e Segurança Web**
+• Aprimorar conhecimentos em **Redes e Segurança Web**
 
 ---
 
 ##  Conhecimentos
 
-### • Redes
+### 🌐 Redes
 `TCP/IP` `TCP/UDP` `DNS` `HTTP/HTTPS` `Portas` `NAT`
 
-### • Linux
+### 🐍 Linux
 `Terminal` `Permissões` `Processos` `Arquivos e Diretórios`
 
-### • Windows
+### 🪟 Windows
 `CMD` `PowerShell` `Usuários` `Permissões` `Serviços` `Processos`
 
-### • Programação
+### 💻 Programação
 `Python` `Lógica de Programação`
 
-### • Web
+### 🕸️ Web
 `HTTP` `Cookies` `Sessões` `Headers` `APIs`
 
-### • Cibersegurança
+### 🛡️ Cibersegurança
 `Vulnerabilidades` `Autenticação` `Autorização` `Hash` `Criptografia`
 
-### • Reconhecimento
+### 🧠 Reconhecimento
 `Hosts` `Serviços` `Portas` `Tecnologias`
 
-### • Segurança Web
+### 🔐 Segurança Web
 `SQL Injection` `XSS` `CSRF` `Controle de Acesso`
 
 > → Estudos e práticas de segurança realizados exclusivamente em ambientes próprios, laboratórios ou sistemas devidamente autorizados.
