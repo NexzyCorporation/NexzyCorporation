@@ -13,25 +13,21 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software**, com foco no desenvolvimento da minha carreira em **Cibersegurança** e interesse especial em **Pentest**.
+Sou estudante de **Engenharia de Software**, com foco no desenvolvimento da minha carreira e interesse especial em **Pentest**.
 
 Atualmente, estou desenvolvendo meus conhecimentos em **Python, Redes, Linux e Segurança Web**, buscando aplicar o aprendizado em projetos, estudos e laboratórios autorizados.
 
-Meu objetivo é conquistar minha **primeira oportunidade profissional na área de Cibersegurança**, adquirindo experiência e evoluindo continuamente como profissional.
+Meu objetivo é conquistar minha **primeira oportunidade profissional na área da Programação**, adquirindo experiência e evoluindo continuamente como profissional.
 
 ---
 
 ## 🎯 Objetivo Profissional
-
-🔐 Construir uma carreira na área de **Cibersegurança**
 
 🛡️ Aprofundar meus conhecimentos em **Pentest**
 
 🐍 Evoluir no desenvolvimento com **Python**
 
 🌐 Aprimorar conhecimentos em **Redes e Segurança Web**
-
-💼 Conquistar minha **primeira oportunidade profissional em Cibersegurança**
 
 ---
 
@@ -146,4 +142,4 @@ Este GitHub será utilizado para documentar minha evolução e publicar projetos
 **Obrigado por visitar meu perfil!**
 
 </div>
--->
+
