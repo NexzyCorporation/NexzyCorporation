@@ -8,11 +8,7 @@
   🎓 Engenharia de Software • 🔐 Cibersegurança • 🛡️ Pentest • 🐍 Python
 </p>
 
-#  Seja bem-vindo ao meu perfil
-
-## Gabriel Henrique
-
-### Engenharia de Software • Cibersegurança • Pentest • Python
+---
 
 </div>
 
