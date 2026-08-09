@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Seja bem-vindo ao meu perfil
+#  Seja bem-vindo ao meu perfil
 
 ## Gabriel Henrique
 
