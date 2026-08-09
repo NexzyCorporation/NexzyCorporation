@@ -3,7 +3,7 @@
 <h1 align="center">Gabriel Henrique</h1>
 
 <p align="center">
-  🎓 Engenharia de Software • 🔐 Cibersegurança • 🛡️ Pentest • 🐍 Python
+   Engenharia de Software •  Cibersegurança •  Pentest •  Python
 </p>
 
 ---
@@ -121,10 +121,10 @@ Este GitHub será utilizado para documentar minha evolução e publicar projetos
 
 ### Gabriel Henrique
 
-🎓 **Engenharia de Software**  
-🔐 **Cibersegurança**  
-🛡️ **Pentester iniciante**  
-🐍 **Python**  
+ **Engenharia de Software**  
+ **Cibersegurança**  
+ **Pentester iniciante**  
+ **Python**  
 🇧🇷 **Brasil**
 
 <br>
