@@ -97,9 +97,9 @@ Meu portfólio está em desenvolvimento.
 
 Este GitHub será utilizado para documentar minha evolução e publicar projetos relacionados a:
 
-**🐍 Python • 🔐 Cibersegurança • 🛡️ Pentest • 🌐 Redes • 🕸️ Segurança Web • 💻 Engenharia de Software**
+**↳ Python • ↳ Cibersegurança • ↳ Pentest • ↳ Redes • ↳ Segurança Web • ↳ Engenharia de Software**
 
-> 🚧 Novos projetos serão adicionados conforme avanço nos estudos e desenvolvo novas habilidades.
+> ⚠️ Novos projetos serão adicionados conforme avanço nos estudos e desenvolvo novas habilidades.
 
 ---
 
