@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Engenharia de Software**, com foco no desenvolvimento da minha primeira carreira na **Programação** e interesse especial em **Pentest**.
 
@@ -91,7 +91,7 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 Meu portfólio está em desenvolvimento.
 
@@ -103,7 +103,7 @@ Este GitHub será utilizado para documentar minha evolução e publicar projetos
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Este GitHub será utilizado para documentar minha evolução e publicar projetos
 
 ---
 
-## 🤝 Contato
+##  Contato
 
 <div align="center">
 
