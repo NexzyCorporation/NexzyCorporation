@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Seja bem-vindo ao meu perfil">
-</p>
+<img src="./banner.png" width="100%" alt="Seja bem-vindo ao meu perfil">
 
 <h1 align="center">Gabriel Henrique</h1>
 
