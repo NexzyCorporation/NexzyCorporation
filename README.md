@@ -6,7 +6,7 @@ Busco transformar estudos e projetos em experiência prática, construindo uma b
 
 ---
 
-## 👨‍💻 Em desenvolvimento
+## 👨‍💻 Work In Progress
 
 Atualmente estou trabalhando e evoluindo nos projetos:
 
@@ -28,7 +28,7 @@ Também sigo estudando **Python, Segurança Web, Redes, Linux e Engenharia de So
 
 ---
 
-## 🚀 Projetos em destaque
+## | Projetos em destaque
 
 ### [OwoLink](https://owolink.onrender.com)
 
@@ -58,7 +58,7 @@ No longo prazo, pretendo aprofundar minha atuação em **Segurança de Aplicaç�
 
 ---
 
-## 🤝 Vamos nos conectar
+## 📫 Let’s Connect
 
 | Plataforma | Link |
 |---|---|
