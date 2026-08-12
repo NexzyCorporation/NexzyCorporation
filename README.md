@@ -28,7 +28,7 @@ Também sigo estudando **Python, Segurança Web, Redes, Linux e Engenharia de So
 
 ---
 
-## | Projetos em destaque
+## 💻 Projetos em destaque
 
 ### [OwoLink](https://owolink.onrender.com)
 
