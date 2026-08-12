@@ -1,111 +1,82 @@
+# Olá, eu sou Gabriel Henrique 👋
 
-<h1 align="center">Sejam Bem-Vindos</h1>
+Sou estudante de **Engenharia de Software**, com foco em **Cibersegurança**, interesse em **Pentest** e atualmente aprofundando meus conhecimentos em **Python**.
 
-<p align="center">
-   Engenharia de Software •  Cibersegurança •  Pentest •  Python
-</p>
-
----
-
+Busco transformar estudos e projetos em experiência prática, construindo uma base sólida para minha primeira oportunidade profissional na área de tecnologia e segurança.
 
 ---
 
-##  Sobre mim
+## 👨‍💻 Em desenvolvimento
 
-Sou, Gabriel, estudante de **Engenharia de Software**, com foco no desenvolvimento da minha primeira carreira na **Programação** e interesse especial em **Pentest**.
+Atualmente estou trabalhando e evoluindo nos projetos:
 
-Atualmente, estou desenvolvendo meus conhecimentos em **Python, Redes, Linux e Segurança Web**, buscando aplicar o aprendizado em projetos, estudos e laboratórios autorizados.
+- **OwoLink** — plataforma voltada à análise de segurança de URLs.
+- **VagaBoost** — plataforma inteligente para análise de perfil e recomendação de vagas, atualmente em desenvolvimento.
 
-Meu objetivo é conquistar minha **primeira oportunidade profissional na área da Programação**, adquirindo experiência e evoluindo continuamente como profissional.
-
----
-
-##  Objetivo Profissional
-
-• Aprofundar meus conhecimentos em **Pentest**
-
-• Evoluir no desenvolvimento com **Python**
-
-• Aprimorar conhecimentos em **Redes e Segurança Web**
+Também sigo estudando **Python, Segurança Web, Redes, Linux e Engenharia de Software**.
 
 ---
 
+## 🛠 Tech Stack
 
-> → Estudos e práticas de segurança realizados exclusivamente em ambientes próprios, laboratórios ou sistemas devidamente autorizados.
-
----
-
-## Tecnologias e Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,windows,git,github,vscode" />
-
-<br><br>
-
-**Python • Linux • Windows • Git • GitHub • VS Code**
-
-</div>
+- **Programação:** Python, Lógica de Programação
+- **Sistemas:** Linux, Windows, PowerShell
+- **Redes:** TCP/IP, DNS, HTTP/HTTPS, Portas, NAT
+- **Web:** APIs, Cookies, Sessões, Headers
+- **Segurança:** Fundamentos de Cibersegurança, Segurança Web, Pentest
+- **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
-## Atualmente estudando
+## 🚀 Projetos em destaque
 
-<div align="center">
+### [OwoLink](https://owolink.onrender.com)
 
-| Área | Estudos |
+Plataforma criada para auxiliar na análise de URLs e identificação de características potencialmente suspeitas.
+
+O projeto contribui para meus estudos em **Segurança Web, Python, APIs, HTTP/HTTPS e desenvolvimento Back-end**.
+
+---
+
+### VagaBoost — Em desenvolvimento
+
+O **VagaBoost** é uma plataforma inteligente em desenvolvimento, criada com o objetivo de auxiliar candidatos na identificação de oportunidades profissionais compatíveis com seus perfis.
+
+O projeto envolve conceitos de **Engenharia de Software, Inteligência Artificial, APIs, desenvolvimento web e integração de dados**.
+
+Novas funcionalidades serão implementadas conforme o avanço do desenvolvimento.
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- Engenharia de Software
+- Cibersegurança
+- Pentest
+- Segurança Web
+- Redes de Computadores
+- Linux
+- Desenvolvimento Back-end
+
+---
+
+## 🎯 Objetivo profissional
+
+Meu objetivo é conquistar minha primeira oportunidade profissional em tecnologia, desenvolvendo experiência prática em **Engenharia de Software e Cibersegurança**.
+
+No longo prazo, pretendo aprofundar minha atuação em **Segurança de Aplicações, Pentest e desenvolvimento seguro de software**.
+
+---
+
+## 🤝 Vamos nos conectar
+
+| Plataforma | Link |
 |---|---|
-|  **Programação** | Python • Lógica de Programação |
-|  **Cibersegurança** | Pentest • Segurança Web |
-|  **Redes** | TCP/IP • DNS • HTTP/HTTPS |
-|  **Sistemas** | Linux • Windows |
-|  **Graduação** | Engenharia de Software |
-
-</div>
+| 💼 LinkedIn | [Meu LinkedIn](https://www.linkedin.com/in/gabrielhenrisantos) |
+| 💻 GitHub | [NexzyCorporation](https://github.com/NexzyCorporation) |
+| 📧 E-mail | `***********` |
 
 ---
 
-##  Projetos
-
-Meu portfólio está em desenvolvimento.
-
-Este GitHub será utilizado para documentar minha evolução e publicar projetos relacionados a:
-
-**↳ Python • ↳ Cibersegurança • ↳ Pentest • ↳ Redes • ↳ Segurança Web • ↳ Engenharia de Software**
-
-> ⚠️ Novos projetos serão adicionados conforme avanço nos estudos e desenvolvo novas habilidades.
-
----
-
-
-
----
-
-##  Contato
-
-<div align="center">
-
-### Gabriel Henrique
-
- **Engenharia de Software**  
- **Cibersegurança**  
- **Pentester iniciante**  
- **Python**  
-🇧🇷 **Brasil**
-
-<br>
-
-**Aberto a conexões, aprendizado e oportunidades profissionais na área de Cibersegurança.**
-
-</div>
-
----
-
-<div align="center">
-
-###  Aprender • Praticar • Construir • Evoluir
-
-**Obrigado por visitar meu perfil!**
-
-</div>
-
+> *"Sempre existe uma camada a mais para descobrir."*
