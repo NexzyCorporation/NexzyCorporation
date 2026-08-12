@@ -30,31 +30,6 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
-##  Conhecimentos
-
-### 🌐 Redes
-`TCP/IP` `TCP/UDP` `DNS` `HTTP/HTTPS` `Portas` `NAT`
-
-### 🐍 Linux
-`Terminal` `Permissões` `Processos` `Arquivos e Diretórios`
-
-### 🪟 Windows
-`CMD` `PowerShell` `Usuários` `Permissões` `Serviços` `Processos`
-
-### 💻 Programação
-`Python` `Lógica de Programação`
-
-### 🕸️ Web
-`HTTP` `Cookies` `Sessões` `Headers` `APIs`
-
-### 🛡️ Cibersegurança
-`Vulnerabilidades` `Autenticação` `Autorização` `Hash` `Criptografia`
-
-### 🧠 Reconhecimento
-`Hosts` `Serviços` `Portas` `Tecnologias`
-
-### 🔐 Segurança Web
-`SQL Injection` `XSS` `CSRF` `Controle de Acesso`
 
 > → Estudos e práticas de segurança realizados exclusivamente em ambientes próprios, laboratórios ou sistemas devidamente autorizados.
 
