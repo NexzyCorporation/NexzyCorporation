@@ -48,17 +48,6 @@ Novas funcionalidades serão implementadas conforme o avanço do desenvolvimento
 
 ---
 
-## 📚 Atualmente estudando
-
-- Python
-- Engenharia de Software
-- Cibersegurança
-- Pentest
-- Segurança Web
-- Redes de Computadores
-- Linux
-- Desenvolvimento Back-end
-
 ---
 
 ## 🎯 Objetivo profissional
